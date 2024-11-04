@@ -17,4 +17,7 @@ Paper Mario:
 https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip  
 __________________________________
 
-Custom Roms:
+Custom Roms:  
+
+Kirby Crystal Shards:  
+https://491143.github.io/N64-Rom-Collection/Kirby%2064%20-%20The%20Crystal%20Shards%20(E).zip
