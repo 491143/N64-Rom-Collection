@@ -32,4 +32,7 @@ Kirby Crystal Shards:
 https://491143.github.io/N64-Rom-Collection/Kirby%2064%20-%20The%20Crystal%20Shards%20(USA)%20(AllMyRoms.net).zip  
 
 Star Fox 64:  
-https://491143.github.io/N64-Rom-Collection/Star%20Fox%2064%20(USA)%20(AllMyRoms.net).zip
+https://491143.github.io/N64-Rom-Collection/Star%20Fox%2064%20(USA)%20(AllMyRoms.net).zip  
+
+Mario Party 3:  
+https://491143.github.io/N64-Rom-Collection/Mario%20Party%203%20(USA)%20(AllMyRoms.net).zip
