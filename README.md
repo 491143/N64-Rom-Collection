@@ -48,6 +48,3 @@ https://file.garden/ZylccvWp2Aem2KC1/Pokemon%20Stadium%20(USA)%20(AllMyRoms.net)
 
 Perfect Dark:  
 https://file.garden/ZylccvWp2Aem2KC1/Perfect%20Dark%20(USA)%20(Rev%201)%20(AllMyRoms.net).zip  
-
-Golden Eye 007:  
-https://file.garden/ZylccvWp2Aem2KC1/GoldenEye%20007%20(USA)%20(AllMyRoms.net).zip  
