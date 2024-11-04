@@ -36,3 +36,6 @@ https://491143.github.io/N64-Rom-Collection/Mario%20Party%203%20(USA)%20(AllMyRo
 
 Pokemon Snap:  
 https://491143.github.io/N64-Rom-Collection/Pokemon%20Snap%20(USA)%20(AllMyRoms.net).zip  
+
+Astroids Hyper 64:  
+https://491143.github.io/N64-Rom-Collection/Asteroids%20Hyper%2064%20(USA)%20(AllMyRoms.net).zip
