@@ -1,8 +1,10 @@
 # N64 Rom Collection
 A collection of N64 Roms  
+
 _______________________________
                                                         
 Recomended Emulator: https://github.com/491143/Emu64
+
 ________________________________
 
 Roms That Already Have A Link:  
@@ -21,6 +23,7 @@ https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!]
 
 Golden Eye 007:  
 https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip
+
 __________________________________
 
 Custom Roms:  
