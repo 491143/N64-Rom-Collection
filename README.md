@@ -41,4 +41,10 @@ Astroids Hyper 64:
 https://491143.github.io/N64-Rom-Collection/Asteroids%20Hyper%2064%20(USA)%20(AllMyRoms.net).zip  
 
 The New Tetris:  
-https://491143.github.io/N64-Rom-Collection/New%20Tetris%2C%20The%20(USA)%20(AllMyRoms.net).zip
+https://491143.github.io/N64-Rom-Collection/New%20Tetris%2C%20The%20(USA)%20(AllMyRoms.net).zip  
+
+Pokemon Stadium:  
+https://file.garden/ZylccvWp2Aem2KC1/Pokemon%20Stadium%20(USA)%20(AllMyRoms.net).zip  
+
+Perfect Dark:  
+https://file.garden/ZylccvWp2Aem2KC1/Perfect%20Dark%20(USA)%20(Rev%201)%20(AllMyRoms.net).zip  
