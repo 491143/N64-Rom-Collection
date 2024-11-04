@@ -14,7 +14,10 @@ Mario 64:
 https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip
 
 Paper Mario:         
-https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip  
+https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip    
+
+Doom:  
+https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!].zip
 __________________________________
 
 Custom Roms:  
