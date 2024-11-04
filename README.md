@@ -21,9 +21,6 @@ https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%2
 Doom:  
 https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!].zip  
 
-Golden Eye 007:  
-https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip
-
 __________________________________
 
 Custom Roms:  
