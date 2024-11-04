@@ -1,6 +1,10 @@
 # N64-Rom-Collection
 A collection of N64 Roms
 
+
+Recomended Emulator: https://github.com/n64emulate/n64emulate
+
+
 Roms That Already Have A Link:
 
 Smash bros:       
@@ -11,5 +15,6 @@ https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20
 
 Paper Mario: 
 https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip
+__________________________________
 
 Custom Roms:
