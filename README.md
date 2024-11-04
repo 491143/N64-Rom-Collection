@@ -38,4 +38,7 @@ Pokemon Snap:
 https://491143.github.io/N64-Rom-Collection/Pokemon%20Snap%20(USA)%20(AllMyRoms.net).zip  
 
 Astroids Hyper 64:  
-https://491143.github.io/N64-Rom-Collection/Asteroids%20Hyper%2064%20(USA)%20(AllMyRoms.net).zip
+https://491143.github.io/N64-Rom-Collection/Asteroids%20Hyper%2064%20(USA)%20(AllMyRoms.net).zip  
+
+The New Tetris:  
+https://491143.github.io/N64-Rom-Collection/New%20Tetris%2C%20The%20(USA)%20(AllMyRoms.net).zip
