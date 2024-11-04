@@ -2,7 +2,7 @@
 A collection of N64 Roms  
 _______________________________
                                                         
-Recomended Emulator: https://github.com/n64emulate/n64emulate  
+Recomended Emulator: https://github.com/491143/Emu64
 ________________________________
 
 Roms That Already Have A Link:  
