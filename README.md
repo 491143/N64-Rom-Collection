@@ -42,3 +42,6 @@ https://491143.github.io/N64-Rom-Collection/Asteroids%20Hyper%2064%20(USA)%20(Al
 
 The New Tetris:  
 https://491143.github.io/N64-Rom-Collection/New%20Tetris%2C%20The%20(USA)%20(AllMyRoms.net).zip  
+
+Mario Kart 64:  
+https://491143.github.io/N64-Rom-Collection/Mario%20Kart%2064%20(USA)%20(AllMyRoms.net).zip  
