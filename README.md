@@ -23,6 +23,18 @@ https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!]
 
 __________________________________
 
+Mario Artist Games:  
+
+Mario Artist - Paint Studio:  
+https://491143.github.io/N64-Rom-Collection/Mario%20Artist%20-%20Paint%20Studio%20(USA)%20(AllMyRoms.net).zip  
+
+Mario Artist - Polygon Studio:  
+https://491143.github.io/N64-Rom-Collection/Mario%20Artist%20-%20Polygon%20Studio%20(USA)%20(AllMyRoms.net).zip  
+
+Mario Artist - Talent Studio:  
+https://491143.github.io/N64-Rom-Collection/Mario%20Artist%20-%20Talent%20Studio%20(USA)%20(AllMyRoms.net).zip  
+
+__________________________________
 Custom Roms:  
 
 Kirby Crystal Shards:  
